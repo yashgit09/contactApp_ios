@@ -2,8 +2,7 @@
 //  DetailsViewController.swift
 //  ContactApp
 //
-//  Created by Cambrian on 2022-03-23.
-//
+
 import UIKit
 
 class DetailsViewController: UIViewController {
